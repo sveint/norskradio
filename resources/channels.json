@@ -1,0 +1,696 @@
+[
+    {
+        "name": "NRK P1 (Ditt distrikt)",
+        "logo": "nrk_p1",
+        "region": "",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_h"
+    },
+	{
+        "name": "NRK P1 Østlandssendingen",
+        "logo": "nrk_p1",
+        "region": "Oslo",
+        "slogan": "",
+        "website": "http://m.nrk.no",
+        "url_low": "http://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_h"
+    },
+	{
+        "name": "NRK P1 Østlandssendingen",
+        "logo": "nrk_p1",
+        "region": "Akershus",
+        "slogan": "",
+        "website": "http://m.nrk.no",
+        "url_low": "http://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_h"
+    },
+	{
+        "name": "NRK P1 Troms",
+        "logo": "nrk_p1",
+        "region": "Troms",
+        "slogan": "",
+        "website": "http://m.nrk.no",
+        "url_low": "http://lyd.nrk.no/nrk_radio_p1_troms_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p1_troms_mp3_h"
+    },
+	{
+        "name": "NRK P1 Trøndelag",
+        "logo": "nrk_p1",
+        "region": "Sør-Trøndelag",
+        "slogan": "",
+        "website": "http://m.nrk.no",
+        "url_low": "http://lyd.nrk.no/nrk_radio_p1_trondelag_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p1_trondelag_mp3_h"
+    },
+	{
+        "name": "NRK P1 Trøndelag",
+        "logo": "nrk_p1",
+        "region": "Nord-Trøndelag",
+        "slogan": "",
+        "website": "http://m.nrk.no",
+        "url_low": "http://lyd.nrk.no/nrk_radio_p1_trondelag_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p1_trondelag_mp3_h"
+    },
+	{
+        "name": "NRK P1 Sørlandet",
+        "logo": "nrk_p1",
+        "region": "Aust-Agder",
+        "slogan": "",
+        "website": "http://m.nrk.no",
+        "url_low": "http://lyd.nrk.no/nrk_radio_p1_sorlandet_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p1_sorlandet_mp3_h"
+    },
+	{
+        "name": "NRK P1 Sørlandet",
+        "logo": "nrk_p1",
+        "region": "Vest-Agder",
+        "slogan": "",
+        "website": "http://m.nrk.no",
+        "url_low": "http://lyd.nrk.no/nrk_radio_p1_sorlandet_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p1_sorlandet_mp3_h"
+    },
+	{
+        "name": "NRK P1 Telemark",
+        "logo": "nrk_p1",
+        "region": "Telemark",
+        "slogan": "",
+        "website": "http://m.nrk.no",
+        "url_low": "http://lyd.nrk.no/nrk_radio_p1_telemark_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p1_telemark_mp3_h"
+    },
+	{
+        "name": "NRK P1 Østfold",
+        "logo": "nrk_p1",
+        "region": "Østfold",
+        "slogan": "",
+        "website": "http://m.nrk.no",
+        "url_low": "http://lyd.nrk.no/nrk_radio_p1_ostfold_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p1_ostfold_mp3_h"
+    },
+	{
+        "name": "NRK P1 Rogaland",
+        "logo": "nrk_p1",
+        "region": "Rogaland",
+        "slogan": "",
+        "website": "http://m.nrk.no",
+        "url_low": "http://lyd.nrk.no/nrk_radio_p1_rogaland_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p1_rogaland_mp3_h"
+    },
+	{
+        "name": "NRK P1 Sogn Og Fjordane",
+        "logo": "nrk_p1",
+        "region": "Sogn og Fjordane",
+        "slogan": "",
+        "website": "http://m.nrk.no",
+        "url_low": "http://lyd.nrk.no/nrk_radio_p1_sogn_og_fjordane_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p1_sogn_og_fjordane_mp3_h"
+    },
+	{
+        "name": "NRK P1 Hedmark og Oppland",
+        "logo": "nrk_p1",
+        "region": "Hedmark",
+        "slogan": "",
+        "website": "http://m.nrk.no",
+        "url_low": "http://lyd.nrk.no/nrk_radio_p1_hedmark_og_oppland_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p1_hedmark_og_oppland_mp3_h"
+    },
+	{
+        "name": "NRK P1 Hedmark og Oppland",
+        "logo": "nrk_p1",
+        "region": "Oppland",
+        "slogan": "",
+        "website": "http://m.nrk.no",
+        "url_low": "http://lyd.nrk.no/nrk_radio_p1_hedmark_og_oppland_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p1_hedmark_og_oppland_mp3_h"
+    },
+	{
+        "name": "NRK P1 Møre Og Romsdal",
+        "logo": "nrk_p1",
+        "region": "Møre og Romsdal",
+        "slogan": "",
+        "website": "http://m.nrk.no",
+        "url_low": "http://lyd.nrk.no/nrk_radio_p1_more_og_romsdal_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p1_more_og_romsdal_mp3_h"
+    },
+	{
+        "name": "NRK P1 Buskerud",
+        "logo": "nrk_p1",
+        "region": "Buskerud",
+        "slogan": "",
+        "website": "http://m.nrk.no",
+        "url_low": "http://lyd.nrk.no/nrk_radio_p1_buskerud_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p1_buskerud_mp3_h"
+    },
+	{
+        "name": "NRK P1 Finnmark",
+        "logo": "nrk_p1",
+        "region": "Finnmark",
+        "slogan": "",
+        "website": "http://m.nrk.no",
+        "url_low": "http://lyd.nrk.no/nrk_radio_p1_finnmark_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p1_finnmark_mp3_h"
+    },
+	{
+        "name": "NRK P1 Hordaland",
+        "logo": "nrk_p1",
+        "region": "Hordaland",
+        "slogan": "",
+        "website": "http://m.nrk.no",
+        "url_low": "http://lyd.nrk.no/nrk_radio_p1_hordaland_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p1_hordaland_mp3_h"
+    },
+	{
+        "name": "NRK P1 Vestfold",
+        "logo": "nrk_p1",
+        "region": "Vestfold",
+        "slogan": "",
+        "website": "http://m.nrk.no",
+        "url_low": "http://lyd.nrk.no/nrk_radio_p1_vestfold_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p1_vestfold_mp3_h"
+    },
+	{
+        "name": "NRK P1 Nordland",
+        "logo": "nrk_p1",
+        "region": "Nordland",
+        "slogan": "",
+        "website": "http://m.nrk.no",
+        "url_low": "http://lyd.nrk.no/nrk_radio_p1_nordland_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p1_nordland_mp3_h"
+    },
+	{
+        "name": "NRK P1+",
+        "logo": "nrk_p1pluss",
+        "region": "",
+        "slogan": "",
+        "website": "http://m.nrk.no",
+        "url_low": "http://lyd.nrk.no/nrk_radio_p1pluss_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p1pluss_mp3_h"
+    },
+    {
+        "name": "NRK P2",
+        "logo": "nrk_p2",
+        "region": "",
+        "slogan": "",
+        "website": "http://m.nrk.no",
+        "url_low": "http://lyd.nrk.no/nrk_radio_p2_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p2_mp3_h"
+    },
+    {
+        "name": "NRK P3",
+        "logo": "nrk_p3",
+        "region": "",
+        "slogan": "",
+        "website": "http://m.nrk.no",
+        "url_low": "http://lyd.nrk.no/nrk_radio_p3_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p3_mp3_h"
+    },
+	{
+        "name": "NRK P13",
+        "logo": "nrk_p13",
+        "region": "",
+        "slogan": "",
+        "website": "http://m.nrk.no",
+        "url_low": "http://lyd.nrk.no/nrk_radio_p13_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p13_mp3_h"
+    },
+	{
+        "name": "P4 Norge",
+        "logo": "p4",
+        "region": "",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://mms-live.online.no/p4_norge_mp3_mq",
+        "url_high": "http://mms-live.online.no/p4_norge_mp3_hq"
+    },
+	{
+        "name": "Radio Norge",
+        "logo": "radio_norge",
+        "region": "",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://stream.sbsradio.no:8000/radionorge",
+        "url_high": "http://stream.sbsradio.no:8000/radionorge.mp3"
+    },
+	{
+        "name": "Radio 1 Oslo",
+        "logo": "radio_1",
+        "region": "Oslo",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://stream.sbsradio.no:8000/r1o",
+        "url_high": "http://stream.sbsradio.no:8000/radio1oslo.mp3"
+    },
+	{
+        "name": "Radio 1 Bergen",
+        "logo": "radio_1",
+        "region": "Hordaland",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://stream.sbsradio.no:8000/r1b",
+        "url_high": "http://stream.sbsradio.no:8000/radio1bergen.mp3"
+    },
+	{
+        "name": "NRK Pyro",
+        "logo": "nrk_pyro",
+        "region": "",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://lyd.nrk.no/nrk_radio_p3_pyro_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p3_pyro_mp3_h"
+    },
+	{
+        "name": "NRK Radioresepsjonen",
+        "logo": "nrk_rr",
+        "region": "",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://lyd.nrk.no/nrk_radio_p3_radioresepsjonen_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p3_radioresepsjonen_mp3_h"
+    },
+	{
+        "name": "NRK National Rap Show",
+        "logo": "nrk_nrs",
+        "region": "",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://lyd.nrk.no/nrk_radio_p3_national_rap_show_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p3_national_rap_show_mp3_h"
+    },
+	{
+        "name": "NRK mPetre",
+        "logo": "nrk_mp3",
+        "region": "",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://lyd.nrk.no/nrk_radio_mp3_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_mp3_mp3_h"
+    },
+	{
+        "name": "NRK Alltid Klassisk",
+        "logo": "nrk_alltid_klassisk",
+        "region": "",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://lyd.nrk.no/nrk_radio_klassisk_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_klassisk_mp3_h"
+    },
+	{
+        "name": "NRK Alltid Nyheter",
+        "logo": "nrk_alltid_nyheter",
+        "region": "",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://lyd.nrk.no/nrk_radio_alltid_nyheter_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_alltid_nyheter_mp3_h"
+    },
+	{
+        "name": "NRK Sámi Radio",
+        "logo": "nrk_sami_radio",
+        "region": "",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://lyd.nrk.no/nrk_radio_sami_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_sami_mp3_h"
+    },
+	{
+        "name": "NRK Stortinget",
+        "logo": "nrk_stortinget",
+        "region": "",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://radio.hiof.no/nrk-stortinget-128",
+        "url_high": "http://radio.hiof.no/nrk-stortinget-128"
+    },
+	{
+        "name": "NRK Alltid Folkemusikk",
+        "logo": "nrk_alltid_folkemusikk",
+        "region": "",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://lyd.nrk.no/nrk_radio_folkemusikk_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_folkemusikk_mp3_h"
+    },
+	{
+        "name": "NRK Super",
+        "logo": "nrk_super",
+        "region": "",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://lyd.nrk.no/nrk_radio_super_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_super_mp3_h"
+    },
+	{
+        "name": "NRK Gull",
+        "logo": "nrk_gull",
+        "region": "",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://lyd.nrk.no/nrk_radio_gull_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_gull_mp3_h"
+    },
+	{
+        "name": "NRK Jazz",
+        "logo": "nrk_jazz",
+        "region": "",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://lyd.nrk.no/nrk_radio_jazz_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_jazz_mp3_h"
+    },
+	{
+        "name": "NRK Sport",
+        "logo": "nrk_sport",
+        "region": "",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://lyd.nrk.no/nrk_radio_sport_mp3_l",
+        "url_high": "http://lyd.nrk.no/nrk_radio_sport_mp3_h"
+    },
+	{
+        "name": "NRK Oslofjord",
+        "logo": "nrk_oslofjord",
+        "region": "Oslo",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://radio.hiof.no/nrk-oslofjord-128",
+        "url_high": "http://radio.hiof.no/nrk-oslofjord-128"
+    },
+	{
+        "name": "NRK Urørt",
+        "logo": "nrk_urort",
+        "region": "",
+        "slogan": "",
+        "website": "",
+        "url_low": "",
+        "url_high": "http://lyd.nrk.no/nrk_radio_p3_urort_mp3_l"
+    },
+	{
+        "name": "P4 Bandit",
+        "logo": "p4_bandit",
+        "region": "",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://mms-live.online.no/p4_bandit_mp3_mq",
+        "url_high": "http://mms-live.online.no/p4_bandit_mp3_hq"
+    },
+	{
+        "name": "P4 Ballade",
+        "logo": "p4_ballade",
+        "region": "",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://mms-live.online.no/p4_ballade_mp3_mq",
+        "url_high": ""
+    },
+	{
+        "name": "P4 Hits",
+        "logo": "p4_hits",
+        "region": "",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://mms-live.online.no/p4_hits_mp3_mq",
+        "url_high": "http://mms-live.online.no/p4_hits_mp3_hq"
+    },
+	{
+        "name": "P4 Radio Retro",
+        "logo": "p4_radioretro",
+        "region": "",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://mms-live.online.no/p4_retro_mp3_mq",
+        "url_high": "http://mms-live.online.no/p4_retro_mp3_hq"
+    },
+	{
+        "name": "P4 Country",
+        "logo": "p4_country",
+        "region": "",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://mms-live.online.no/p4_country_mp3_mq",
+        "url_high": "http://mms-live.online.no/p4_country_mp3_hq"
+    },
+	{
+        "name": "The Voice Oslo",
+        "logo": "voice",
+        "region": "Oslo",
+        "slogan": "",
+        "website": "",
+        "url_low": "",
+        "url_high": "http://stream.sbsradio.no:8000/thevoiceoslo.mp3"
+    },
+	{
+        "name": "The Voice Stavanger",
+        "logo": "voice",
+        "region": "Rogaland",
+        "slogan": "",
+        "website": "",
+        "url_low": "",
+        "url_high": "http://stream.sbsradio.no:8000/thevoicestavanger.mp3"
+    },
+	{
+        "name": "The Voice Trondheim",
+        "logo": "voice",
+        "region": "Sør-Trøndelag",
+        "slogan": "",
+        "website": "",
+        "url_low": "",
+        "url_high": "http://stream.sbsradio.no:8000/thevoicetrondheim.mp3"
+    },
+	{
+        "name": "NRJ Norge",
+        "logo": "nrj",
+        "region": "",
+        "slogan": "",
+        "website": "http://www.nrj.no",
+        "url_low": "http://149.5.240.22/WR-NO-norway",
+        "url_high": ""
+    },
+	{
+        "name": "NRJ Kristiansand",
+        "logo": "nrj",
+        "region": "Vest-Agder",
+        "slogan": "",
+        "website": "http://www.nrj.no",
+        "url_low": "http://149.5.240.22/WR-NO-KSD",
+        "url_high": ""
+    },
+	{
+        "name": "NRJ Pop",
+        "logo": "nrj_pop",
+        "region": "",
+        "slogan": "",
+        "website": "http://www.nrj.no",
+        "url_low": "http://149.5.240.22/WR-NO-POP",
+        "url_high": ""
+    },
+	{
+        "name": "NRJ Hot",
+        "logo": "nrj_hot",
+        "region": "",
+        "slogan": "",
+        "website": "http://www.nrj.no",
+        "url_low": "http://149.5.240.22/WR-NO-HIT",
+        "url_high": ""
+    },
+	{
+        "name": "NRJ RnB",
+        "logo": "nrj_rnb",
+        "region": "",
+        "slogan": "",
+        "website": "http://www.nrj.no",
+        "url_low": "http://149.5.240.22/WR-NO-RNB",
+        "url_high": ""
+    },
+	{
+        "name": "NRJ Hip Hop",
+        "logo": "nrj_hip_hop",
+        "region": "",
+        "slogan": "",
+        "website": "http://www.nrj.no",
+        "url_low": "http://149.5.240.22/WR-NO-HIPHOP",
+        "url_high": ""
+    },
+	{
+        "name": "NRJ Rock",
+        "logo": "nrj_rock",
+        "region": "",
+        "slogan": "",
+        "website": "http://www.nrj.no",
+        "url_low": "http://149.5.240.22/WR-NO-ROCK",
+        "url_high": ""
+    },
+	{
+        "name": "NRJ Dance",
+        "logo": "nrj_dance",
+        "region": "",
+        "slogan": "",
+        "website": "http://www.nrj.no",
+        "url_low": "http://149.5.240.22/WR-NO-DANCE",
+        "url_high": ""
+    },
+	{
+        "name": "NRJ MasterMix",
+        "logo": "nrj_mastermix",
+        "region": "",
+        "slogan": "",
+        "website": "http://www.nrj.no",
+        "url_low": "http://149.5.240.22/WR-NO-WR8",
+        "url_high": ""
+    },
+	{
+        "name": "NRJ Lounge",
+        "logo": "nrj_lounge",
+        "region": "",
+        "slogan": "",
+        "website": "http://www.nrj.no",
+        "url_low": "http://149.5.240.22/WR-NO-WR7",
+        "url_high": ""
+    },
+	{
+        "name": "NRJ Special",
+        "logo": "nrj_special",
+        "region": "",
+        "slogan": "",
+        "website": "http://www.nrj.no",
+        "url_low": "http://149.5.240.22/WR-NO-WR9",
+        "url_high": ""
+    },
+	{
+        "name": "P5 Oslo",
+        "logo": "p5",
+        "region": "Oslo",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://mms-live.online.no/P5_Oslo",
+        "url_high": ""
+    },
+	{
+        "name": "P5 Bergen",
+        "logo": "p5",
+        "region": "Hordaland",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://mms-live.online.no/P5_Bergen",
+        "url_high": ""
+    },
+	{
+        "name": "P5 Trondheim",
+        "logo": "p5",
+        "region": "Sør-Trøndelag",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://mms-live.online.no/P5_Trondheim",
+        "url_high": ""
+    },
+	{
+        "name": "P5 Stavanger",
+        "logo": "p5",
+        "region": "Rogaland",
+        "slogan": "",
+        "website": "",
+        "url_low": "http://mms-live.online.no/P5_Stavanger",
+        "url_high": ""
+    },
+	{
+        "name": "Radio 3",
+        "logo": "radio3",
+        "region": "",
+        "slogan": "Mer musikk, mindre mas.",
+        "website": "http://radio3norge.no",
+        "url_low": "",
+        "url_high": "http://srv1.dab.no:2018"
+    },
+	{
+        "name": "Beat FM",
+        "logo": "beatfm",
+        "region": "",
+        "slogan": "",
+        "website": "",
+        "url_low": "",
+        "url_high": "http://stream.thebeat.no/beat128.mp3"
+    },
+	{
+        "name": "Metro Oslo",
+        "logo": "metro",
+        "region": "Oslo",
+        "slogan": "",
+        "website": "",
+        "url_low": "",
+        "url_high": "http://stream.21stventure.com:8100"
+    },
+	{
+        "name": "Metro Buskerud",
+        "logo": "metro",
+        "region": "Buskerud",
+        "slogan": "",
+        "website": "",
+        "url_low": "",
+        "url_high": "http://stream.21stventure.com:8102"
+    },
+	{
+        "name": "Metro Mjøsbyene",
+        "logo": "metro",
+        "region": "Hedmark",
+        "slogan": "",
+        "website": "",
+        "url_low": "",
+        "url_high": "http://stream.21stventure.com:8104"
+    },
+	{
+        "name": "Metro Østfold",
+        "logo": "metro",
+        "region": "Østfold",
+        "slogan": "",
+        "website": "",
+        "url_low": "",
+        "url_high": "http://stream.21stventure.com:8116"
+    },
+	{
+        "name": "Metro Trondheim",
+        "logo": "metro",
+        "region": "Sør-Trøndelag",
+        "slogan": "",
+        "website": "",
+        "url_low": "",
+        "url_high": "http://stream.21stventure.com:8108"
+    },
+	{
+        "name": "Radio+ Nostalgi",
+        "logo": "radio_nostalgi",
+        "region": "",
+        "slogan": "",
+        "website": "",
+        "url_low": "",
+        "url_high": "http://stream.etermedier.no:8126"
+    },
+	{
+        "name": "Radio+ Country",
+        "logo": "radio_country",
+        "region": "",
+        "slogan": "",
+        "website": "",
+        "url_low": "",
+        "url_high": "http://stream.etermedier.no:8128"
+    },
+	{
+        "name": "Radio+ Dans",
+        "logo": "radio_dans",
+        "region": "",
+        "slogan": "",
+        "website": "",
+        "url_low": "",
+        "url_high": "http://stream.etermedier.no:8130"
+    },
+	{
+        "name": "Radio Revolt",
+        "logo": "radiorevolt",
+        "region": "Sør-Trøndelag",
+        "slogan": "",
+        "website": "http://radiorevolt.no",
+        "url_low": "",
+        "url_high": "http://streamer.radiorevolt.no:8000/revolt"
+    }
+]
+
