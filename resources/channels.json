@@ -252,15 +252,6 @@
         "url_high": "http://stream.sbsradio.no:8000/radio1bergen.mp3"
     },
 	{
-        "name": "NRK Pyro",
-        "logo": "nrk_pyro",
-        "region": "",
-        "slogan": "",
-        "website": "",
-        "url_low": "http://lyd.nrk.no/nrk_radio_p3_pyro_mp3_l",
-        "url_high": "http://lyd.nrk.no/nrk_radio_p3_pyro_mp3_h"
-    },
-	{
         "name": "NRK Radioresepsjonen",
         "logo": "nrk_rr",
         "region": "",
@@ -268,15 +259,6 @@
         "website": "",
         "url_low": "http://lyd.nrk.no/nrk_radio_p3_radioresepsjonen_mp3_l",
         "url_high": "http://lyd.nrk.no/nrk_radio_p3_radioresepsjonen_mp3_h"
-    },
-	{
-        "name": "NRK National Rap Show",
-        "logo": "nrk_nrs",
-        "region": "",
-        "slogan": "",
-        "website": "",
-        "url_low": "http://lyd.nrk.no/nrk_radio_p3_national_rap_show_mp3_l",
-        "url_high": "http://lyd.nrk.no/nrk_radio_p3_national_rap_show_mp3_h"
     },
 	{
         "name": "NRK mPetre",
@@ -288,8 +270,8 @@
         "url_high": "http://lyd.nrk.no/nrk_radio_mp3_mp3_h"
     },
 	{
-        "name": "NRK Alltid Klassisk",
-        "logo": "nrk_alltid_klassisk",
+        "name": "NRK Klassisk",
+        "logo": "nrk_klassisk",
         "region": "",
         "slogan": "",
         "website": "",
@@ -324,8 +306,8 @@
         "url_high": "http://radio.hiof.no/nrk-stortinget-128"
     },
 	{
-        "name": "NRK Alltid Folkemusikk",
-        "logo": "nrk_alltid_folkemusikk",
+        "name": "NRK Folkemusikk",
+        "logo": "nrk_folkemusikk",
         "region": "",
         "slogan": "",
         "website": "",
