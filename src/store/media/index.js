@@ -2,6 +2,8 @@ import channelClicked from './signals/channelClicked'
 import playStopClicked from './signals/playStopClicked'
 import mediaStatusChanged from './signals/mediaStatusChanged'
 import metadataChanged from './signals/metadataChanged'
+import nextChannelClicked from './signals/nextChannelClicked'
+import prevChannelClicked from './signals/prevChannelClicked'
 
 export default {
   state: {
@@ -15,6 +17,8 @@ export default {
     channelClicked,
     playStopClicked,
     mediaStatusChanged,
-    metadataChanged
+    metadataChanged,
+    nextChannelClicked,
+    prevChannelClicked,
   }
 }

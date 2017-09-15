@@ -94,17 +94,31 @@ var styles = StyleSheet.create({
 
 
 
+// TODO: Split into components
 
 export default connect({
     currentChannel: state`media.current`,
     currentMetadata: state`media.currentMetadata`,
     isPlaying: state`media.isPlaying`,
     playStopClicked: signal`media.playStopClicked`,
+    nextChannelClicked: signal`media.nextChannelClicked`,
+    prevChannelClicked: signal`media.prevChannelClicked`,
+    playStopClicked: signal`media.playStopClicked`,
     controlsClicked: signal`app.controlsClicked`,
     favoriteClicked: signal`channels.favoriteClicked`,
     isFavorite: isFavorite(state`media.current.name`)
   },
-  function AlbumView({currentChannel, currentMetadata, isPlaying, playStopClicked, controlsClicked, favoriteClicked, isFavorite}) {
+  function AlbumView({
+    currentChannel,
+    currentMetadata,
+    isPlaying,
+    playStopClicked,
+    nextChannelClicked,
+    prevChannelClicked,
+    controlsClicked,
+    favoriteClicked,
+    isFavorite
+  }) {
     
     let favTag = isFavorite ? 'heart' : 'heart-o'
     
@@ -131,7 +145,9 @@ export default connect({
         </View>
         <View style={styles.controlsContainer}>
           <View style={styles.controlsRow}>
-            <Icon name="step-backward" style={styles.controlsNextButton} />
+            <TouchableWithoutFeedback activeOpacity={0.5} onPress={() => prevChannelClicked()}>
+              <Icon name="step-backward" style={styles.controlsNextButton} />
+            </TouchableWithoutFeedback>
           <TouchableWithoutFeedback activeOpacity={0.5} onPress={() => playStopClicked()}>
             {isPlaying ? (
               <Icon name="stop" style={styles.controlsPlayButton} /> 
@@ -139,7 +155,9 @@ export default connect({
             <Icon name="play" style={styles.controlsPlayButton} />
             )}
           </TouchableWithoutFeedback>
-          <Icon name="step-forward" style={styles.controlsNextButton} />
+          <TouchableWithoutFeedback activeOpacity={0.5} onPress={() => nextChannelClicked()}>
+            <Icon name="step-forward" style={styles.controlsNextButton} />
+          </TouchableWithoutFeedback>
           </View>
         </View>
       </View>
