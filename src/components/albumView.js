@@ -54,7 +54,7 @@ var styles = StyleSheet.create({
     width: '70%',
     color: '#777',
     fontSize: 15,
-    width: 'auto'
+    textAlign: 'center'
   },
   logoContainer: {
     paddingTop: 30,
