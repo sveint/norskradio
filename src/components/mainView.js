@@ -41,6 +41,10 @@ var styles = StyleSheet.create({
     width: 'auto',
     flex: 1
   },
+  channelListCollapsed: {
+    width: 'auto',
+    height: 0
+  },
   mediaContainer: {
     height: 72,
     width: 'auto',
@@ -78,10 +82,8 @@ export default connect({
     if (expandedControls) {
       controlsView = <AlbumView />
     }
-    return <View style={styles.main}>
-        {!expandedControls && 
-          <View style={styles.channelList}><ChannelList></ChannelList></View>
-        }
+    return <View style={styles.main}> 
+        <View style={expandedControls ? styles.channelListCollapsed : styles.channelList}><ChannelList></ChannelList></View>
         {error &&
           <View style={styles.error}><Text style={styles.errorText}>En feil skjedde under avspilling...</Text></View>
         }
