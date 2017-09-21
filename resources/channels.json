@@ -1,6 +1,6 @@
 [
     {
-        "name": "NRK P1 (Ditt distrikt)",
+        "name": "NRK P1",
         "logo": "nrk_p1",
         "region": "Nasjonal",
         "url": "http://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_h"
@@ -225,7 +225,49 @@
         "name": "Radio Norge",
         "logo": "radio_norge",
         "region": "Nasjonal",
-        "url": "http://stream.sbsradio.no:8000/radionorge.mp3"
+        "url": "http://tx-bauerno.sharp-stream.com/http_live.php?i=radionorge_no_mp3"
+    },
+	{
+        "name": "Radio Soft",
+        "logo": "radio_soft",
+        "region": "Nasjonal",
+        "url": "http://tx-bauerno.sharp-stream.com/http_live.php?i=radiosoft_no_mp3"
+    },
+    {
+        "name": "Radio Norsk Pop",
+        "logo": "radio_norsk_pop",
+        "region": "Nasjonal",
+        "url": "http://tx-bauerno.sharp-stream.com/http_live.php?i=norskpop_no_mp3"
+    },
+    {
+        "name": "Radio Rock",
+        "logo": "radio_rock",
+        "region": "Nasjonal",
+        "url": "http://tx-bauerno.sharp-stream.com/http_live.php?i=radiorock_no_mp3"
+    },
+    {
+        "name": "Radio Vinyl",
+        "logo": "radio_vinyl",
+        "region": "Nasjonal",
+        "url": "http://tx-bauerno.sharp-stream.com/http_live.php?i=vinyl_no_mp3"
+    },
+    {
+        "name": "Radio Topp 40",
+        "logo": "radio_topp40",
+        "region": "Nasjonal",
+        "url": "http://tx-bauerno.sharp-stream.com/http_live.php?i=top40_no_mp3"
+    },
+    {
+        "name": "KISS",
+        "logo": "kiss",
+        "region": "Nasjonal",
+        "url": "http://tx-bauerno.sharp-stream.com/http_live.php?i=kiss_no_mp3"
+    },
+    {
+        "name": "KISSTORY",
+        "logo": "kisstory",
+        "region": "Nasjonal",
+        "url": "http://tx-bauerno.sharp-stream.com/http_live.php?i=kisstory_no_mp3"
     },
 	{
         "name": "Radio 1 Oslo",
@@ -376,24 +418,6 @@
         "logo": "metro",
         "region": "Sør-Trøndelag",
         "url": "http://stream.21stventure.com:8108"
-    },
-	{
-        "name": "Radio+ Nostalgi",
-        "logo": "radio_nostalgi",
-        "region": "Nasjonal",
-        "url": "http://stream.etermedier.no:8126"
-    },
-	{
-        "name": "Radio+ Country",
-        "logo": "radio_country",
-        "region": "Nasjonal",
-        "url": "http://stream.etermedier.no:8128"
-    },
-	{
-        "name": "Radio+ Dans",
-        "logo": "radio_dans",
-        "region": "Nasjonal",
-        "url": "http://stream.etermedier.no:8130"
     },
 	{
         "name": "Radio Revolt",
