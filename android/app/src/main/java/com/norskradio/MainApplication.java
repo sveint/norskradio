@@ -1,4 +1,4 @@
-package com.norskradio;
+package com.appsforenbedreverden.norskradio;
 
 import android.app.Application;
 
