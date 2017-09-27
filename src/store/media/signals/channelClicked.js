@@ -5,5 +5,6 @@ import saveLastPlayed from '../../channels/actions/saveLastPlayed'
 
 export default [
     set(state`media.current`, state`channels.channels.${props`channel`}`),
+    startPlaying,
     saveLastPlayed
 ]
